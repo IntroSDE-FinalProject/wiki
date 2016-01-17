@@ -3,7 +3,7 @@
 This repository contains the documentation for the final project for the course *[Introduction to Service Design and Engineering](https://github.com/IntroSDE)* of the [Department of Information Engineering and Computer Science](http://www.disi.unitn.it/), [University of Trento](http://www.unitn.it/).
 
 ## Description of the project
-[Link to the document]()
+[Link to the document (pdf) ](https://github.com/introsde-2015-FinalProject/wiki/blob/master/Introsde-2015_Project_Description.pdf)
 
 ## Wiki for the project
 [Wiki for introsde-2015-FinalProject](https://github.com/introsde-2015-FinalProject/wiki/wiki)
