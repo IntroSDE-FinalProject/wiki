@@ -12,7 +12,7 @@ This repository contains the documentation for the final project for the course 
 
 |Service|API Documentation|
 |---|---|---|
-|Local Database Service|[Wiki page](https://github.com/introsde-2015-FinalProject/LocalDatabaseServices/wiki/API-Documentation)|
+|Local Database Service|[Apiary](http://docs.localdatabaseservice.apiary.io/#)|
 |Adapter Service|[Wiki page](https://github.com/introsde-2015-FinalProject/AdapterServices/wiki/API-Documentation)|
 |Storage Service|[Apiary](http://docs.storageservice.apiary.io/)|
 |Business Logic Service|[Apiary](http://docs.businesslogicservice.apiary.io/#)|
